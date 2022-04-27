@@ -1,2 +1,2 @@
 # Minitalk-42
-Minitalk Procject has succeed with 115/100
+Minitalk Procject succeed with 115/100
